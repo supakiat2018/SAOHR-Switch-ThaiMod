@@ -1,0 +1,194 @@
+﻿ลำดับ (No.),Message_ID,หมวดหมู่และบริบท (Category & Context),ข้อความภาษาอังกฤษต้นฉบับ (Target English),คำแปลภาษาไทย (Thai Translation),อ้างอิง: ประโยคก่อนหน้า (Prev Line),อ้างอิง: ประโยคถัดไป (Next Line)
+1,501213,เมนูตั้งค่า (Option),Partner Lock-On,ล็อกเป้าคู่หู,[501212] Camera Lock Assist,[501214] Minimap Magnification
+2,501400,เมนูอุปกรณ์ (Equipment),EQUIPPED FIGURE,รูปลักษณ์ที่สวมใส่,[501363] EQUIPMENT,[501401] Unequip?
+3,505092,ระบบต่อสู้,Guard Break,ทำลายการ์ด,[505091] SP Charge,"[505093] The PvP Duel Mode has been added to
+multiplayer. Use the teleporter in
+the Plaza or your room to play."
+4,505145,ระบบต่อสู้,Parry Break,ทำลายการปัดป้อง,[505144] Recoil,[505146] Change into this attire?
+5,5500564,สถานะ/บัฟ,Super Armor,ซูเปอร์อาร์เมอร์,[5500563] Counter Lv3,[5500565] Physical Barrier
+6,5620380,สถานะ/บัฟ,Super Armor,ซูเปอร์อาร์เมอร์,[5620379] SP Cost,[5620381] Guard
+7,5620402,คำอธิบายสกิล (อ้างอิง 5620404),"[Passive] SS ATK +10%, Max SSC +2, Midair ATK +50%
+Fall speed (after attack) -30%, ATK vs. Weak +20%","[ติดตัว] SS ATK +10%, SSC สูงสุด +2, ATK กลางอากาศ +50%
+ความเร็วร่วงหล่น (หลังโจมตี) -30%, ATK ต่อจุดอ่อน +20%","[5620401] [Passive] Sword Skill ATK +10%, Max SSC +2,
+SP cost -10%, ATK speed +10%","[5620403] [Passive] Sword Skill ATK +10%, Max SSC +2,
+Backstab +50% damage, Movement speed +20%"
+8,5620406,คำอธิบายสกิล (อ้างอิง 5620401),"[Passive] Sword Skill ATK +10%, Max SSC +2,
+ATK vs. Weak +25%, Basic attack ATK +100%","[ติดตัว] ATK ซอร์ดสกิล +10%, SSC สูงสุด +2,
+ATK ต่อจุดอ่อน +25%, ATK โจมตีปกติ +100%","[5620405] [Passive] Sword Skill ATK +10%, Max SSC +2,
+Debuff duration -50%, +25% resist to all debuffs","[5620407] [Passive] Sword Skill ATK +10%, Max SSC +2,
+Debuff accuracy +25%, SP cost -10%"
+9,7100042,ชื่อทีมปาร์ตี้ NPC (ไม่ต้องแปล),n00bs,n00bs,[7100041] Holy Sword BlaZe,[7100043] The Shout of Love
+10,9502313,บทสนทนาคู่หู,"How, um, how did things to today?
+Did you gain a lot of EXP?","เอ่อ... วันนี้เป็นยังไงบ้างเหรอ?
+ได้ EXP มาเยอะหรือเปล่า?","[9502312] So, uh, let's talk about something.","[9502314] Did you, uh, try any quests?"
+11,9504273,บทสนทนาคู่หู (ตามหาดอกไม้),They've got to,มันต้องอยู่ที่ไหนสักแห่งแน่ ๆ,"[9504272] Hey, let's go find these flowers!
+We'll be able to see a lot of places.","[9504274] I don't know what got into me.
+That was kind of embarrassing..."
+12,9504441,บทสนทนาคู่หู (ตามหาดอกไม้),They've got to,มันต้องอยู่ที่ไหนสักแห่งแน่ ๆ,"[9504440] Hey, let's go find these flowers!
+We'll be able to see a lot of places.",[9504442] This isn't so bad...
+13,9506102,บทสนทนาคู่หู (เรื่องมื้อเที่ยง),"Hehe. That's all I've been about to
+think about.","ฮะ ๆ ในหัวฉันคิดแต่เรื่องนั้น
+มาตลอดเลยล่ะ","[9506101] Don't you think lunch would taste
+especially delicious after some
+monster-bashing?","[9506103] What kind of snacks should we bring?
+Ooh! Maybe cupcakes?"
+14,9509051,บทสนทนาคู่หู (ลูบผม),I definitely don't not dislike this...,ก็ไม่ได้ไม่ชอบหรอกนะ...,[9509050] I like it when you play with my hair!,"[9509052] Whoa...
+I'm losing myself in the moment..."
+15,9511204,บทสนทนาคู่หู,"Hey, what gives?
+Is spending time with that boring?","นี่ เป็นอะไรไปน่ะ?
+อยู่ด้วยกันแล้วมันน่าเบื่อขนาดนั้นเลยเหรอ?","[9511203] It'd be a good way to relax after a
+long day...","[9511205] We used to spend so much time together,
+just chatting the night away."
+16,9514316,บทสนทนาคู่หู (ชวนคุย),"Real life, games--anything!
+It don't care what we talk about.","จะเรื่องในชีวิตจริงหรือเรื่องเกมก็ได้หมดเลย!
+จะพูดคุยเรื่องอะไรฉันก็ไม่ว่าหรอกนะ","[9514315] You've always got the best stories, too.
+I could listen to them forever!",[9514317] There's a lot I don't know about you yet.
+17,9516130,บทสนทนาคู่หู (ขอตามไปทำเควสต์),"Heh. Hope you don't me coming along, then.",ฮะ ๆ หวังว่าคงไม่ว่าอะไรนะถ้าฉันจะขอตามไปด้วย,[9516129] It's a tough decision.,"[9516131] Let me know if there's a quest that
+interests you, then."
+18,9518041,บทสนทนาคู่หู (หยอกล้อ),"I'll just have you get you back, then!",แบบนี้ฉันคงต้องเอาคืนเธอบ้างแล้วล่ะ!,"[9518040] Sure, you can keep going.","[9518042] Heh heh... I think I'm blushing
+for some reason."
+19,9521083,บทสนทนาคู่หู (ฉากโรแมนติก),"You went it for a kiss just now,
+didn't you?","เมื่อกี้นี้กะจะเข้ามาจูบ
+ใช่ไหมล่ะ?",[9521082] Did you just...?,[9521084] Don't spring something like that on me!
+20,9536012,บทสนทนาคู่หู (พรีเมียร์),"I have also heard that the answer to that
+question my depend on one's personal
+tolerances. What are yours?","ฉันได้ยินมาด้วยว่าคำตอบของคำถามนั้น
+ขึ้นอยู่กับความอดทนของแต่ละคน
+แล้วของเธอเป็นอย่างไรเหรอ?","[9536011] Though I suppose being slightly selfish is
+not inherently a bad thing, or so I have
+heard. Is that true?","[9536013] Balancing one's selfishness seems rather
+difficult."
+21,9537183,บทสนทนาคู่หู (รำลึกความหลัง),"I will never forget how we first me. You
+did save my life and my friends...","ฉันจะไม่มีวันลืมตอนที่เราพบกันครั้งแรกเลย
+เธอได้ช่วยชีวิตฉันและเพื่อน ๆ เอาไว้...","[9537182] I was fortunate that the humans I met
+were you and Asuna.","[9537184] I am speaking from the heart, you know..."
+22,9537232,บทสนทนาคู่หู (เขินตอนเข้าใกล้),"Wh-What are you doing? Reign in
+this foolishness...","ทะ-ทำอะไรของเธอน่ะ? หยุดทำ
+อะไรบ้า ๆ ได้แล้ว...",[9537231] I do not mind if you want to get closer...,"[9537233] Heh, as you wish."
+23,9537267,บทสนทนาคู่หู (ฉากโรแมนติก),This fills my hearth with warmth...,แบบนี้ทำให้หัวใจของฉันอบอุ่นจัง...,"[9537266] You are quite forward, aren't you?
+My...heart is all aflutter...",[9537268] N-Not right now... Please...
+24,9547031,บทสนทนาคู่หู,Maybe I'm being too touchy.,บางทีฉันอาจจะคิดมากไปเองก็ได้,[9547030] See? Just look around us.,"[9547032] Heh! So you get those kinds of
+thoughts, too?"
+25,9548066,บทสนทนาคู่หู,"Sorry. I was going off on my own there,
+wasn't I...","ขอโทษทีนะ เมื่อกี้ฉันเผลอพูดคนเดียว
+ซะยาวเลยใช่ไหม...","[9548065] Anyway, I treasure the time I spend
+with you. Let's keep this going.","[9548067] ...If you don't want to listen, I'm done
+talking here."
+26,9555345,บทสนทนาคู่หู (พรีเมียร์จำคำศัพท์ผิด),"Does this mean that the correct definition
+for a bed is ""Lord of Twilight's Call""?","แบบนี้แปลว่าความหมายที่ถูกต้องของคำว่าเตียง
+ก็คือ ""เสียงเรียกแห่งจ้าวสนธยา"" เหรอ?","[9555344] I have learned that a ""futon"" is defined
+as ""my dearly beloved friend.""","[9555346] I am extremely pleased to have learned
+so many new words with you."
+27,9555547,บทสนทนาคู่หู (คุยบนเตียง),"...Cheers, mate.",...ขอบใจนะเพื่อน,[9555546] No...?,[9555548] No ignoring me you mean stupid meanie.
+28,9555552,บทสนทนาคู่หู (คุยบนเตียง),"Yeah, you can kiss me goodbye.",ใช่ เตรียมบอกลาฉันได้เลย,"[9555551] Yeah, that's just not cool.",[9555553] Why all the pillow talk...?
+29,9600921,ข้อความแชทสั้น,blhgbhblhg,พึมพำ ๆ,[9600920] stronger than they said,[9600922] well ain't this somethin
+30,9600923,ข้อความแชทสั้น (2 = to),i dunno what 2 say,ไม่รู้จะพูดอะไรดีเลย,[9600922] well ain't this somethin,[9600924] yo u free?
+31,9600929,ข้อความแชทสั้น (4 = for),ready 4 boss?,พร้อมเจอบอสหรือยัง?,[9600928] keep info comin' in SAO,"[9600930] sweet, stage 1 is toast"
+32,9601009,ข้อความแชทสั้น (4ever = forever),Dessert 4ever!,ของหวานตลอดไป!,[9601008] CUUUUUUTE~~~! \(^_^)/,[9601010] Look at that horizon.
+33,9601386,ข้อความแชทสั้น (ไม่ต้องแปล),GG!,GG!,[9601385] Nice going out there!,[9601387] Thanks for the weapon!
+34,9601433,ข้อความแชทสั้น,"My sis is pretty cool, huh?",พี่สาวฉันเท่สุด ๆ ไปเลยใช่ไหมล่ะ?,[9601432] Everything is under control,[9601434] Promises...
+35,9610706,ข้อความแชท (ซิลิก้า),"Feeling back to normal? If you
+ever get parlayed again, let
+me know! I'll always take care
+of you. I always want to!","อาการกลับมาเป็นปกติหรือยัง? ถ้าเกิด
+เป็นอัมพาตขึ้นมาอีกเมื่อไหร่ บอกฉัน
+ได้เลยนะ! ฉันจะคอยดูแลเธอเอง
+เพราะฉันอยากดูแลเธอยังไงล่ะ!","[9610705] You guys are always doin'
+stuff for me, so I wanna do
+stuff for you! I wanna help
+Sinon however I can!","[9610707] I learned to nurse people, but
+I never get to use my skills!
+I don't WANT you to get sick,
+but if you HAPPEN to..."
+36,9610918,ข้อความแชท (อาร์โก้ขายข่าว),"got some choice infos!
+thought I might tell u 1st
+cuz ur my best customer
+<3 <3 <3 what u think?","ได้ข้อมูลดี ๆ มาล่ะ!
+กะว่าจะมาบอกเธอก่อนเป็นคนแรกเลย
+เพราะเธอเป็นลูกค้าคนสำคัญของฉันยังไงล่ะ
+<3 <3 <3 ว่าไง สนใจไหม?","[9610917] if there wuz a problem
+yo u solved it. thanks fam,
+i'll prolly bug u again for
+more stuffs later XD","[9610919] i heard u cleared that no
+problem at all. nice! ur
+next info-dump is on the
+house!"
+37,9640047,ข้อความแชท (นัดเจอในเมือง),"thx 4 gettin back to me quick.
+i'm in town so just come find
+me when ur ready :o3","ขอบใจที่ตอบกลับมาอย่างเร็วนะ
+ตอนนี้ฉันอยู่ในเมือง ถ้าพร้อมเมื่อไหร่
+ก็แวะมาหาฉันได้เลย :o3","[9640045] cool. this is sensitive info
+so let's meet up in town.
+come find me~","[9640048] Hehe, thank you!
+Come see me in town then!"
+38,9700251,คำพูดตอนต่อสู้,I need to give them all you got!,ต้องใส่เต็มที่ซะแล้ว!,[9700250] Look out!,[9700252] After that one! Go!
+39,9710258,คำพูดในเมือง/ฟิลด์ (five = พัก 5 นาที),Phew! Maybe just a quick five.,เฮ้อ! ขอพักหายใจสักหน่อยแล้วกัน,[9710257] Think there are fish in there?,[9710259] I feel at peace here.
+40,9710851,คำพูดในเมือง/ฟิลด์ (ชมวิว),Quiet the view from here.,วิวจากตรงนี้สวยไม่เลวเลยนะ,[9710850] This place is kinda... great.,[9710852] What a perfect place to chill.
+41,9711750,คำพูดในเมือง/ฟิลด์ (at ease),I feel... at east here.,อยู่ที่นี่แล้วรู้สึก... สบายใจจัง,[9711749] It's so crystal clear!,[9711751] I could stare out for forever!
+42,9712548,คำพูดในเมือง/ฟิลด์ (ร้านไอเทม),Time ta freshen up the items.,ได้เวลาเติมไอเทมกันหน่อยแล้ว,[9712547] Anythin' I'm missing?,"[9712549] Can't have too many, I guess."
+43,9713160,คำพูดในเมือง/ฟิลด์ (ร้านอาวุธ),Time to get a new ol' girl.,ได้เวลาหาอาวุธคู่ใจอันใหม่แล้วสิ,[9713159] It's all about the feeeeels!,[9713161] This... is a tough choice.
+44,9713257,คำพูดในเมือง/ฟิลด์ (ชวนตกปลา),How bought some bro-fishin'?,ไปตกปลาด้วยกันหน่อยเป็นไงเพื่อน?,[9713256] Time to bring out the PECS!,[9713258] Time to rock the break!
+45,9713428,คำพูดในเมือง/ฟิลด์ (fiver = พักเหนื่อย),Everyone needs a fiver.,ไม่ว่าใครก็ต้องมีเวลาพักเหนื่อยกันบ้างแหละนะ,[9713427] Time to lean back and... Aaah!,[9713429] Think I'll take a breather.
+46,9713770,คำพูดในเมือง/ฟิลด์ (ดูแลอาวุธ),My arms require care.,อาวุธของฉันต้องได้รับการดูแลรักษา,"[9713769] Is it best to ""shop around""?",[9713771] Perhaps you can lend me aid.
+47,9713823,คำพูดในเมือง/ฟิลด์,Perhaps we may visit others.,บางทีเราอาจแวะไปดูร้านอื่นกันได้นะ,[9713822] My armor is well sufficient.,[9713824] I shall return here.
+48,9713849,คำพูดในเมือง/ฟิลด์ (ชมวิวเมือง),I see can see ages from here.,จากตรงนี้มองเห็นไปได้ไกลมากเลย,[9713848] A perfect spot to recover.,"[9713850] What a happy, bustling town."
+49,9714032,คำพูดในเมือง/ฟิลด์ (เผลอหลับ),Mm?! I feel into a slumber.,อืม?! เผลอหลับไปซะได้,[9714031] Mmmn... Zzzz... sleeptalk...,[9714033] ...The scent pleases me.
+50,9714059,คำพูดในเมือง/ฟิลด์ (ร้านอาวุธ),A wide variety or armaments.,มีอาวุธและอุปกรณ์ให้เลือกหลากหลายดีจัง,[9714058] There are many weapons here.,"[9714060] ""Best seller""... Why?"
+51,9714111,คำพูดในเมือง/ฟิลด์ (คนเยอะ),Could we walk though there?,เราเดินผ่านตรงนั้นไปได้ไหมนะ?,[9714108] There are very many people.,[9714112] I'd not want to trouble them.
+52,9714413,คำพูดในเมือง/ฟิลด์ (ร้านชุดเกราะ),They appear to carry armor.,ดูเหมือนร้านนี้จะมีชุดเกราะขายด้วยนะ,[9714412] It's difficult to navigate...,[9714414] May I take a look around?
+53,9715272,คำพูดในเมือง/ฟิลด์ (ร้านอาวุธ),I like the staff in here.,ฉันชอบของในร้านนี้จัง,[9715271] My weapons could use a polish.,"[9715273] Water blisses me out, bro."
+54,9715346,คำพูดในเมือง/ฟิลด์ (พักเหนื่อย),A little five won't hurt.,พักเหนื่อยสักนิดคงไม่เป็นไรหรอกมั้ง,[9715345] I'm ready for those bastards!,"[9715347] Actually, I'll rest later!"
+55,9715617,คำพูดในเมือง/ฟิลด์ (เลือกอุปกรณ์),Which is best for my form...?,อันไหนจะเหมาะกับกระบวนท่าของฉันที่สุดนะ...?,[9715616] What should I get...?,[9715618] Or do I pick based on looks?
+56,9730581,คำพูดในเมือง/ฟิลด์ (ซิลิก้านอนพักบนหญ้า),Hehehe! Pina's down too!,ฮะ ๆ! พีน่าก็นอนพักเหมือนกันนะ!,[9730578] So nice to nap on the grass!,[9730582] H-Hello! Hi...
+57,9731004,คำพูดในเมือง/ฟิลด์ (ชวนเดินเล่น),"Let's talk a stroll, huh?",ออกไปเดินเล่นกันหน่อยไหม?,[9731003] So... How're your weapons?,"[9731005] Hey, are you listening?"
+58,9732097,คำพูดในเมือง/ฟิลด์,"Form is one thing, only one.",เรื่องกระบวนท่าน่ะเป็นแค่ส่วนหนึ่งเท่านั้น,[9732096] These are all rather pricey.,[9732098] Have you kept up your swords?
+59,9733508,คำพูดในเมือง/ฟิลด์ (หาข่าว/เควสต์),I should make another sweep...,ฉันน่าจะลองเดินสำรวจดูอีกรอบนะ...,[9733507] Which quest to take on today?,[9733509] What's the latest news here?
+60,9733592,คำพูดในเมือง/ฟิลด์ (เดินเข้าร้านค้า),What're they carrying here?,ร้านนี้มีอะไรขายบ้างนะ?,"[9733591] Go where ya want, I'm wit ya.",[9733595] Gonna get some new digs?
+61,9733595,คำพูดในเมือง/ฟิลด์ (ร้านชุดเกราะ),Gonna get some new digs?,กะจะหาซื้อชุดใหม่เหรอ?,[9733592] What're they carrying here?,[9733596] See anythin' ya really love?
+62,9734036,คำพูดในเมือง/ฟิลด์,"I'm down, ya can't stop me!",ฉันเอาด้วย ใครก็หยุดฉันไม่ได้หรอก!,[9734035] Hope you don't mind!,[9734037] Ah... Just what I needed.
+63,9734053,คำพูดในเมือง/ฟิลด์ (ง่วงนอน),I could conk out... any...,ฉันพร้อมจะหลับได้... ทุกเมื่อเลย...,[9734052] This place is in the Top 5.,[9734054] Kyaaaah!
+64,9734519,คำพูดในเมือง/ฟิลด์ (โวยวาย),D-Don't pick me... STOP THIS!,ยะ-อย่าแกล้งฉันสิ... หยุดเดี๋ยวนี้นะ!,[9734518] What the hell are you doing?!,"[9734520] Oh, it's come to this. *sigh*"
+65,9735065,คำพูดในเมือง/ฟิลด์ (ชวนพัก),Wanna take a fiver?,แวะพักกันสักหน่อยไหม?,[9735064] This spot's open for a break.,[9735066] Mm... That smell is great!
+66,9735096,คำพูดในเมือง/ฟิลด์ (ร้านเครื่องประดับ),Something in an accessory? Ha!,กำลังมองหาเครื่องประดับอยู่เหรอ? ฮะ!,[9735095] Anything you want?,[9735097] This stuff is just too pricey.
+67,9735502,คำพูดในเมือง/ฟิลด์ (learn at your side),I lean so much at your side.,เวลาอยู่ข้าง ๆ เธอแล้วฉันได้เรียนรู้อะไรเยอะเลย,[9735501] I'm curious about your ways.,[9735503] Where are we off to?
+68,9735600,คำพูดในเมือง/ฟิลด์ (เห็นแม่น้ำ),I did not there was a river...,ไม่รู้มาก่อนเลยว่ามีแม่น้ำอยู่ตรงนี้ด้วย...,[9735599] Shall we reforge our swords?,[9735603] Human engineers are gifted.
+69,9736557,คำพูดในเมือง/ฟิลด์ (ลมพัดแรง),The wind will not cease this.,ลมแรงไม่ยอมหยุดพัดเลยนะ,[9736556] Mean wind ruffles my clothes.,[9736558] Shall we go exploring?
+70,9738034,คำพูดในเมือง/ฟิลด์,That's done right...?,แค่นี้ก็เรียบร้อยแล้วใช่ไหมนะ...?,"[9738033] Slow down, heart rate. Slooow.",[9738035] Excuse me.
+71,9739511,คำพูดในเมือง/ฟิลด์,Wh-What are you...?,ทะ-ทำอะไรของเธอน่ะ...?,[9739510] This will be a wonderful day!,"[9739512] I mean, I'm okay with this."
+72,9740001,คำพูดในเมือง/ฟิลด์ (ยุยดีใจได้อยู่กับพ่อแม่),I'm we get to be together!,ดีใจจังที่เราได้มาอยู่ด้วยกันค่ะ!,[9740000] Yay! Father-daughter time!,[9740002] Hehe! It's just us two today.
+73,9740007,คำพูดในเมือง/ฟิลด์ (ยุย),I want to everything I can!,อยากจะช่วยทำทุกอย่างเท่าที่ทำได้เลยค่ะ!,[9740006] Let's go everywhere! Hehe!,[9740008] Where do people like to go?
+74,9740525,คำพูดในเมือง/ฟิลด์,"I quiet enjoy this, I think.",ฉันค่อนข้างชอบแบบนี้เลยล่ะ,"[9740524] Please, do not cease.",[9740526] <ชื่อผู้เล่น>...?
+75,9751273,คำพูดในฟิลด์/ดันเจี้ยน,We do we improve our synergy?,เราจะประสานงานกันให้ดีขึ้นได้ยังไงนะ?,[9751270] Walk softly here...,[9751274] That enemy was relentless.
+76,9751870,คำพูดในฟิลด์/ดันเจี้ยน (หอบเหนื่อย),Just need to... catch my...,ขอเวลา... พักหายใจหน่อย...,[9751869] First and foremost--Heeeeeals!,[9751873] Gotta watch their movements!
+77,9753319,คำพูดในฟิลด์/ดันเจี้ยน,Am I running low in the shop?,ของในร้านใกล้จะหมดหรือยังนะ?,[9753318] Gotta be a better way to buff.,[9753320] I still need tons of material.
+78,9753673,คำพูดในฟิลด์/ดันเจี้ยน,But soft before a foe.,แต่อย่าได้ประมาทต่อหน้าศัตรูนะ,[9753670] We must be prepared next time.,[9753674] What a powerful beast...
+79,9772597,คำพูดตอนต่อสู้/คู่หู,Wh-What're you... I mean...,ทะ-ทำอะไรของ... คือฉันหมายถึง...,[9772596] H-Hey...! Hey...,[9772598] Hehe... This is kinda nice.
+80,9773259,คำพูดตอนต่อสู้,Here comes a big one! Dodge!,การโจมตีชุดใหญ่มาแล้ว! หลบเร็ว!,[9773258] Leave the vanguard to me!,[9773260] Haha! That was off the hook!
+81,9773542,คำพูดในดันเจี้ยน,"Is it just more, or it is dark?",ฉันคิดไปเองหรือว่าแถวนี้มันมืดลงนะ?,[9773541] It's rather dangerous out here.,[9773543] That's... very curious.
+82,9773913,คำพูดตอนต่อสู้,Take the shot!,โจมตีเลย!,"[9773912] You can do this, Tia!","[9773917] Hey, <ชื่อผู้เล่น>?"
+83,9775046,คำพูดตอนต่อสู้,Hold one for one second here...,เดี๋ยวก่อน รอสักวินาทีนะ...,[9775045] Nobody hurts my friends!,"[9775047] Stun them, please! PLEASE!"
+84,9775630,คำพูดตอนต่อสู้,Fire away!,โจมตีได้เลย!,[9775629] Can't right now! One second!,[9775631] Can't switch!
+85,9776259,คำพูดตอนต่อสู้,Here comes a big one!,การโจมตีชุดใหญ่มาแล้ว!,[9776258] I can step up to the challenge!,[9776260] Tidy lil' dodge there!
+86,9776308,คำพูดตอนต่อสู้ (เชียร์ไคลน์),"C'mon, Klein! Heave to!",เอาหน่อยสิไคลน์! สู้เขาหน่อย!,"[9776307] I'm bankin' on ya, Yuuki!","[9776309] Kick their ass, Mr. Agil!"
+87,9776520,คำพูดตอนต่อสู้,Olay!,โอเล่!,[9776507] Thanks for that!,"[9776530] Sorry, can't do that right now!"
+88,9776861,คำพูดตอนต่อสู้,That packed quick a wallop...!,การโจมตีเมื่อกี้หนักเอาเรื่องเลย...!,[9776860] That was a sweet dodge!,[9776862] Let's end it with sword skills!
+89,9777995,คำพูดตอนต่อสู้,"Save some for me, you right?",เหลือไว้ให้ฉันจัดการบ้างนะ เข้าใจไหม?,[9777994] I really dig this duo.,"[9777996] Whoa there, kid..."
+90,9778307,คำพูดตอนต่อสู้ (ขอบคุณ),You my gratitude.,ขอขอบคุณจากใจจริง,[9778306] ......,[9778320] I will not disappoint you.
+91,9778645,คำพูดตอนต่อสู้,No one shall my allies!,ฉันไม่ยอมให้ใครมาทำร้ายพวกพ้องหรอก!,"[9778644] I am withdrawn, join me!",[9778646] Would you kindly wait for me?
+92,9779147,คำพูดตอนต่อสู้ (ยืนนิ่ง),Are we standing for a purpose?,ที่พวกเรายืนอยู่นี่มีเหตุผลอะไรหรือเปล่า?,[9779146] What sort of location is this?,[9779148] What would you care to do next?
+93,9779560,คำพูดตอนต่อสู้ (ค้นหา),I will being a search.,ฉันจะเริ่มทำการค้นหาเดี๋ยวนี้แหละ,[9779559] Good tidings to you.,[9779564] I entrust our path to you.
+94,9779673,คำพูดตอนต่อสู้ (ค้นหา),I will being a search.,ฉันจะเริ่มทำการค้นหาเดี๋ยวนี้แหละ,[9779672] I may be getting hungry.,[9779699] I entrust our path to you.
+95,9779867,คำพูดตอนต่อสู้ (สำรวจพื้นที่),"Please, carve the entire area?",ช่วยสำรวจพื้นที่ทั้งหมดเลยได้ไหม?,[9779866] You have impeccable timing.,[9779868] The strategy was effective!
+96,9780636,คำพูดตอนต่อสู้ (HP ลดครึ่งหลอด),Half-way down!,ลดไปครึ่งทางแล้ว!,[9780635] I can't let you get hurt!,[9780640] I am DONE WITH THIS!
+97,9783455,คำพูดตอนต่อสู้ (สลับขึ้นแนวหน้า),Take the van!,ฝากแนวหน้าด้วย!,[9783454] We need to switch!,[9783456] I'll patch up my wounds.
+98,9784514,คำพูดตอนต่อสู้ (ถามทาง),We are we headed next?,ต่อไปพวกเราจะไปทางไหนกันดี?,[9784513] I feel... stronger. Brave?,[9784515] I believe you've lost your way.
+99,9901288,คำพูดบอท/NPC (พักผ่อน),I think I can sleep for ten.,ฉันว่าฉันหลับยาวได้ถึงสิบชั่วโมงเลย,[9901287] I think it's time for a break.,"[9901289] Yeah, just forget the time..."
+100,9901291,คำพูดบอท/NPC (พักผ่อน),I think I can sleep for ten.,ฉันว่าฉันหลับยาวได้ถึงสิบชั่วโมงเลย,[9901290] I think it's time for a break.,[9901292] Now for some monster hunting...
+101,9902049,คำพูดบอท/NPC (ต่อสู้),Here comes a big one.,การโจมตีชุดใหญ่มาแล้ว,[9902048] We can't let this place fall...,[9902050] Damn! We couldn't save it!
+102,9902053,คำพูดบอท/NPC (ต่อสู้),Hurry! Get ready for attack!,เร็วเข้า! เตรียมรับการโจมตี!,[9902052] Thanks! You're pretty amazing!,"[9902054] Phew, it's finally calmed down."
+103,9902073,คำพูดบอท/NPC (ขอความช่วยเหลือ),Please! Help up!,ได้โปรด! ช่วยพวกเราด้วย!,[9902072] Our defeat approaches...,[9902074] I appreciate your help.
+104,9904603,คำพูดริมน้ำ (9904602: The water is lovely.),It's so cool...,น้ำเย็นสบายจัง...,[9904602] The water is lovely.,[9904604] What a nice place.
+105,9904967,คำพูดบอท/NPC,You sure are close.,เข้ามาใกล้จังเลยนะ,[9904966] Over here!,"[9904968] Uh, what?"
+106,9905731,คำพูดริมน้ำ (9905732: I can see myself in the water.),It's so cool...,น้ำเย็นสบายจัง...,[9905730] This place is our secret.,[9905732] I can see myself in the water.
+107,9905748,คำพูดบอท/NPC,Are you leaving own?,กำลังจะออกไปคนเดียวเหรอ?,[9905747] Unforgivable!,[9905749] Let's DO this!
+108,9906129,"ยูจิโอใช้สกิลดาบกุหลาบน้ำเงิน (9906128: Bloom, Blue Rose!)",Freeze!,จงเยือกแข็ง!,"[9906128] Bloom, Blue Rose!",[9906130] Release Recollection!

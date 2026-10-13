@@ -1,0 +1,15 @@
+# Large Game Archives and ROMs (Exceeds GitHub file size limits)
+*.nsp
+*.cpk
+*.zip
+romfs/
+
+# Build staging and Python cache
+build_staging/
+SAOHR_Switch_Thai_Mod/build_staging/
+**/__pycache__/
+*.pyc
+
+# Unrelated Game Files
+Dragon_Quest_Builders*
+extracted_dqb_fonts/
