@@ -95,4 +95,13 @@
 
 ---
 
+## 👥 เครดิต & การพัฒนา (Credits & Tools)
+
+* **พัฒนาและค้นคว้าวิศวกรรมย้อนกลับ (Reverse Engineering & Porting):** [supakiat2018](https://github.com/supakiat2018)
+* **AI Pair Programming & Architecture Analysis:** พัฒนาร่วมกับ **Antigravity (Google DeepMind)** ช่วยวิเคราะห์โครงสร้างสถาปัตยกรรมไบนารี Nvidia Tegra X1 TRM, ตารางไบต์ฟอนต์ PhyreEngine, แก้ไขเลย์เอาต์ UI `.S2D` และเขียนสคริปต์ประกอบบิลด์อัตโนมัติ
+* **บันทึกประวัติการพัฒนาและการวิเคราะห์ (Engineering Logs & Chat):** สามารถดูบันทึกแชทและการรันคำสั่งฉบับเต็มได้ที่ [`docs/chat_history/`](docs/chat_history/)
+* **ม็อดภาษาไทยต้นฉบับเวอร์ชัน PC:** ขอขอบคุณทีมผู้พัฒนาม็อดภาษาไทย SAOHR PC ดั้งเดิมสำหรับทรัพยากรคำแปล
+
+---
+
 *โปรเจกต์นี้จัดทำขึ้นเพื่อการศึกษาและการพัฒนา Modding เกม Sword Art Online: Hollow Realization Deluxe Edition บน Nintendo Switch*
