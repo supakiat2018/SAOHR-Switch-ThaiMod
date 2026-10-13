@@ -21,8 +21,8 @@ with open(os.path.join(base_dir, r"SAOHR_Switch_Thai_Mod\tools\inject_108_transl
 ns = {}
 exec(code, ns)
 cluster_map = ns["cluster_to_cjk"]
-cluster_map["ไม"] = chr(0x550F)
-cluster_map["ทำ"] = chr(0x5CB3)
+cluster_map["ไม"] = chr(0x5D1F)
+cluster_map["ทำ"] = chr(0x522A)
 cluster_map["เดี่"] = chr(0x5854)
 cluster_map["ก่"] = chr(0x4E98)
 cluster_map["เปิ"] = chr(0x5902)
@@ -53,7 +53,7 @@ translations = [
     (1, '9iuq', '40_4090_054_0', "I think perhaps he we out to be working\nTOGETHER, don't you? Seeing this through\nto the bitter end...", 'ฉันคิดว่าบางทีพวกเราน่าจะร่วมมือกัน\nทำไปด้วยกันนะ จริงไหม? สู้ไปด้วยกัน\nจนถึงที่สุดไปเลย...'),
     (2, 'c7ji', '40_1010_008_0', 'SAO...', 'SAO...'),
     (3, 'c9ic', '40_3020_009_0', "I dunno, my experience probably can't\ntrump a part of fourteen plus...", 'ไม่รู้สิ ประสบการณ์ของฉันคงเทียบกับ\nปาร์ตี้ตั้ง 14 คนขึ้นไปไม่ได้หรอกนะ...'),
-    (4, 'c9ic', '40_3020_049_0', "Wait a sec--What did I just say?! How is\nhe not super dead?! You needed a part of\nfourteen just to scrape by!", 'เดี่ยวก่อนนะ--เมื่อกี้ฉันพูดว่าอะไรนะ?! ทำไม\nหมอนั่นยังไม่ตายสนิทอีกนะ?! ต้องใช้ปาร์ตี้ตั้ง 14 คน\nถึงจะเอาตัวรอดมาได้นะ!'),
+    (4, 'c9ic', '40_3020_049_0', "Wait a sec--What did I just say?! How is\nhe not super dead?! You needed a part of\nfourteen just to scrape by!", 'เดี่ยวก่อนนะ--เมื่อกี้ฉันพูดอะไรออกไปนะ?!\nทำไมหมอนั่นถึงยังไม่ตายสนิทอีกล่ะ?!\nต้องมีปาร์ตี้ตั้ง 14 คนถึงจะเอาตัวรอดมาได้นะ!'),
     (5, 'f890', '50_0000_061_0', "Yes... YES! That's perfect! We could go\ndown to the river at sunset and have a\ndeep discussion and exchange jabs!", 'ใช่... ใช่แล้ว! ยอดเยี่ยมไปเลย! พวกเราไปที่ริมแม่น้ำ\nตอนตะวันตกดิน แล้วเปิดใจคุยกันอย่างจริงจัง\nพร้อมกับแลกหมัดกันเลยเป็นไง!'),
     (6, 'f8ou', '50_0510_006_0', "That... Is a really idea! But not mine!\nWhat do you think of Sado? That's right,\nget some tea ceremony going!", 'นั่น... เป็นความคิดที่ดีจริง ๆ! แต่ไม่ใช่ของฉันนะ!\nเธอคิดยังไงกับพิธีชงชาล่ะ? ใช่แล้ว มาจัดพิธีชงชา\nกันดีกว่า!'),
     (7, 'f8ou', '50_0510_007_0', "I've already got all out club activities\nlined up. We start with making delicious\ntea and then we drink said tea.", 'ฉันเตรียมกิจกรรมชมรมทั้งหมดไว้เรียบร้อยแล้วล่ะ\nเราเริ่มจากชงชาอร่อย ๆ แล้วก็ดื่มชานั้นกัน'),
@@ -105,10 +105,13 @@ for item in encoded_list:
 
 # Process each script file
 modified_files = 0
+pristine_backup = os.path.join(backup_base, "scripts_20261013_170200")
 for fn, items in by_file.items():
     fp = os.path.join(script_dir, fn)
-    # Backup original file
-    shutil.copy2(fp, os.path.join(backup_dir, fn))
+    # Restore from pristine backup if available
+    pristine_file = os.path.join(pristine_backup, fn)
+    if os.path.exists(pristine_file):
+        shutil.copy2(pristine_file, fp)
     
     with open(fp, "rb") as f:
         data = bytearray(f.read())
