@@ -2,7 +2,7 @@
 *.nsp
 *.cpk
 *.zip
-romfs/
+/romfs/
 
 # Build staging and Python cache
 build_staging/
